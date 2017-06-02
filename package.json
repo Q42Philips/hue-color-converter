@@ -3,7 +3,10 @@
   "version": "0.0.0",
   "description": "Convert RGB values to XY values",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "eslint .",
+    "prepublish": "npm test"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/q42philips/hue-color-converter"
@@ -38,5 +41,8 @@
     "q42"
   ],
   "author": "Q42",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.19.0"
+  }
 }
