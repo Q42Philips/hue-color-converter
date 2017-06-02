@@ -1,7 +1,7 @@
 var colorPointsGamut_A = [[0.703, 0.296], [0.214, 0.709], [0.139, 0.081]];
 var colorPointsGamut_B = [[0.674, 0.322], [0.408, 0.517], [0.168, 0.041]];
 var colorPointsGamut_C = [[0.692, 0.308], [0.17, 0.7], [0.153, 0.048]];
-var colorPointsDeault = [[1.0, 0.0], [0.0, 1.0], [0.0, 0.0]];
+var colorPointsDefault = [[1.0, 0.0], [0.0, 1.0], [0.0, 0.0]];
 
 var GAMUT_A_BULBS_LIST = ["LLC001", "LLC005", "LLC006", "LLC007", "LLC010", "LLC011", "LLC012", "LLC014", "LLC013", "LST001"];
 var GAMUT_B_BULBS_LIST = ["LCT001", "LCT002", "LCT003", "LCT004", "LLM001", "LCT005", "LCT006", "LCT007"];
