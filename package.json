@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "eslint .",
-    "prepublish": "npm test"
+    "prepublish": "npm test",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
   "repository": {
     "type": "git",
@@ -43,6 +44,7 @@
   "author": "Q42",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^3.19.0"
+    "eslint": "^3.19.0",
+    "semantic-release": "^6.3.6"
   }
 }
