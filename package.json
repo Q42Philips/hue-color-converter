@@ -1,0 +1,42 @@
+{
+  "name": "@q42philips/hue-color-converter",
+  "version": "0.0.0",
+  "description": "Convert RGB values to XY values",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/q42philips/hue-color-converter"
+  },
+  "bugs": {
+    "url": "https://github.com/q42philips/hue-color-converter/issues"
+  },
+  "contributors": [
+    {
+      "name": "Thijs Suijten",
+      "url": "https://github.com/tsuijten"
+    },
+    {
+      "name": "Sander Ploegsma",
+      "url": "https://github.com/sanderploegsma"
+    }
+  ],
+  "maintainers": [
+    {
+      "name": "Sander Ploegsma",
+      "url": "https://github.com/sanderploegsma"
+    }
+  ],
+  "keywords": [
+    "hue",
+    "rgb",
+    "xy",
+    "color",
+    "convert",
+    "converter",
+    "philips",
+    "q42"
+  ],
+  "author": "Q42",
+  "license": "MIT"
+}
