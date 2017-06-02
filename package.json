@@ -1,6 +1,6 @@
 {
   "name": "@q42philips/hue-color-converter",
-  "version": "0.0.0",
+  "version": "0.0.0-semantic-release",
   "description": "Convert RGB values to XY values",
   "main": "index.js",
   "scripts": {
