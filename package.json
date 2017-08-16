@@ -45,6 +45,6 @@
   "license": "MIT",
   "devDependencies": {
     "eslint": "^4.0.0",
-    "semantic-release": "^6.3.6"
+    "semantic-release": "^7.0.1"
   }
 }
